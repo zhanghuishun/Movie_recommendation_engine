@@ -107,3 +107,14 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+#MACOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows Installer files
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
